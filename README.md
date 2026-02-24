@@ -62,6 +62,3 @@ No real educational decisions should be made using this system.
 
 ---
 
-## 👨‍💻 Author
-
-Created as a fun experimental project by a student developer exploring AI + Education UX.
